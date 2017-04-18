@@ -1,43 +1,8 @@
-/*
-// bg and columns
-$prim1: #333333 !default; // darkest black
-$prim2: #555555 !default; // lighter black
-$prim3: #999999 !default; // lightest black
-
-// drawer
-$sec1: #660066 !default; // darkest purple
-$sec2: #843284 !default; // lighter purple
-$sec3: #a366a3 !default; // lightest purple
-*/
-
-/*
-$color1: #282c37 !default; // darkest
-$color2: #d9e1e8 !default; // lightest
-$color3: #9baec8 !default; // lighter
-*/
-
-//http://paletton.com/#uid=75c0G0kpM9vxD3cqW8nhUu3a-E+
-
-// bg and columns
-$prim1: #333333 !default; // darkest black
-$prim2: #555555 !default; // lighter black
-$prim3: #999999 !default; // lightest black
-
-// drawer
-$sec1: #660066 !default; // darkest purple
-$sec2: #843284 !default; // lighter purple
-$sec3: #a366a3 !default; // lightest purple
-
-// main
-$accent:   #fa41e2 !default; // vibrant (accent)
-$disabled: #ba82b2 !default; // vibrant (disabled)
-
-// legacy
-$color1: $prim1;  // darkest purple
-$color2: $prim3;  // lightest purple
-$color3: $prim2;  // lighter purple
-$color4: $accent; // vibrant (accent)
-$color5: #fff !default;     // white
-$color6: #df405a !default;  // error red
-$color7: #79bd9a !default;  // succ green
-$color8: #000 !default;     // black
+$color1: #141414; // darkest
+$color2: #B9D592; // lightest
+$color3: #94B75C; // lighter
+$color4: #246B73; // vibrant
+$color5: #ffffff !default; // white
+$color6: #df405a !default; // error red
+$color7: #79bd9a !default; // succ green
+$color8: #000000 !default; // black
